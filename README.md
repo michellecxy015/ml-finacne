@@ -9,10 +9,15 @@ This repository contains experiments applying various deep learning architecture
 
 ## 📁 Project Structure
 ├── AE, CAE, VAE.ipynb       # Autoencoder experiments
+
 ├── cnn.ipynb                # CNN model for time series forecasting
+
 ├── dnn.ipynb                # DNN experiments
+
 ├── rnn_new (1).ipynb        # RNN/LSTM experiments
+
 ├── market_data.xlsx         # Macroeconomic + financial time series dataset
+
 ├── README.md                # Project overview and documentation
 ## 📊 Dataset
 
